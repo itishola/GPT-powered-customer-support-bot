@@ -1,0 +1,4 @@
+ID,Question,LLM_Response,Expected_Response,Category,Confidence
+1,What is the return policy?,You can return items within 15 days of purchase.,Items may be returned within 30 days of purchase.,Policy,0.92
+2,How do I reset my password?,Click on ‘Forgot Password’ on the login page and follow the steps.,Same as LLM response,Tech,0.98
+3,Do you offer international shipping?,We only deliver within the United States.,"Yes, we ship worldwide via DHL and FedEx.",Shipping,0.89
